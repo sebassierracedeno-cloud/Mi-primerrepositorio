@@ -9,7 +9,7 @@ Aquí trabajaremos conceptos de POO, manejo de archivos y estructuras de datos e
 - Ana Gómez
 - Juan Pérez
 - Laura Torres
-
+- Juan sebastian
 ## Cómo ejecutar
 1. Activar entorno virtual: `source .venv/Scripts/activate`
 2. Instalar dependencias: `pip install -r requirements.txt`
